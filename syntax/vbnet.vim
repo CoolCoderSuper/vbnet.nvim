@@ -22,7 +22,7 @@ syn keyword vbKeyword Option Private Property Public RaiseEvent Redim Resume Ret
 syn keyword vbKeyword Set Static Step Sub Until Wend While With
 syn keyword vbKeyword Binary Date Error Friend Me New Optional ParamArray String WithEvents
 syn keyword vbKeyword Class Module Imports Overridable Protected Overrides
-syn keyword vbKeyword OrElse AndAlso Interface Namespace ReadOnly AddHandler
+syn keyword vbKeyword OrElse AndAlso Interface Namespace ReadOnly AddHandler Overloads
 syn keyword vbKeyword RemoveHandler CType DirectCast CDec Handles Async Await MyBase IsNot Of Try Catch Finally Throw
 syn keyword vbKeyword Shared Not Using Shadows MustInherit MustOverride Inherits
 syn keyword vbKeyword Operator Iterator Narrowing Widening Partial NotInheritable NotOverridable GetType Region
