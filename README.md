@@ -5,3 +5,8 @@ This plugin provides the vbnet filetype for .vb files as well as improved syntax
 ## Installation
 
 Should work with most plugin managers.
+
+Setup like this:
+```lua
+require("vbnet").setup()
+```
