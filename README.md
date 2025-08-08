@@ -1,4 +1,4 @@
-# VB.NET for NeoVim
+# vbnet.nvim
 
 This plugin provides the vbnet filetype for .vb files as well as improved syntax highlighting.
 
