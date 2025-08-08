@@ -1,4 +1,6 @@
-local function setup()
+local M = {}
+
+function M.setup()
     vim.filetype.add {
         extension = {
             vb = function(path, _)
@@ -14,6 +16,4 @@ local function setup()
     }
 end
 
-return {
-    setup = setup,
-}
+return M
