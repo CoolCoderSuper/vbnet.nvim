@@ -21,7 +21,7 @@ syn keyword vbKeyword GoTo Implements Let Lib Lock Loop Next On OnError
 syn keyword vbKeyword Option Private Property Public RaiseEvent Redim Resume Return
 syn keyword vbKeyword Set Static Step Sub Until Wend While With
 syn keyword vbKeyword Binary Date Error Friend Me New Optional ParamArray String WithEvents
-syn keyword vbKeyword Class Module Imports Overridable Protected Overrides
+syn keyword vbKeyword Class Module Imports Overridable Protected Overrides Structure
 syn keyword vbKeyword OrElse AndAlso Interface Namespace ReadOnly AddHandler Overloads
 syn keyword vbKeyword RemoveHandler CType DirectCast CDec Handles Async Await MyBase IsNot Of Try Catch Finally Throw
 syn keyword vbKeyword Shared Not Using Shadows MustInherit MustOverride Inherits
